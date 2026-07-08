@@ -24,7 +24,7 @@ Compare supplier availability by medical specialty.
 Identify business participation trends.
 Support informed business and healthcare decisions through interactive dashboards.\
 
-<h2🛠️ Tools & Technologies></h2>
+## 🛠️ Tools & Technologies
 Microsoft Power BI
 Microsoft Excel
 Data Visualization
@@ -32,7 +32,7 @@ Data Analysis
 KPI Dashboard Design
 
 
-📂 Repository Structure
+## 📂 Repository Structure
 Medical-Equipment-Suppliers-Dashboard
 
 │
@@ -59,7 +59,7 @@ Medical-Equipment-Suppliers-Dashboard
 └── 📄 README.md
 
 
-<h2📊 Dashboard Features></h2>
+## 📊 Dashboard Features
 📌 KPI Cards for quick performance overview
 📍 State-wise supplier analysis
 🏥 Medical specialty distribution
@@ -68,10 +68,10 @@ Medical-Equipment-Suppliers-Dashboard
 🔍 Interactive filters and slicers
 📋 Detailed supplier information table
 
-<h1Medical Equipment Suppliers Dashboard></h1>
+## Medical Equipment Suppliers Dashboard
 <img width="1029" height="623" alt="image" src="https://github.com/user-attachments/assets/5aca28e0-6bc2-4e11-9c4a-6dd0251fb282" />
 
-<h2📈 Key Insights></h2>
+## 📈 Key Insights
 California, New York, Texas, and Florida have the highest supplier concentration.
 Supplier distribution varies across different medical specialties.
 Business participation differs among supplier organizations.
@@ -79,7 +79,7 @@ Geographic analysis highlights supplier coverage across states.
 Interactive dashboards enable quick data exploration.
 Visual insights support better business decision-making.
 
-<h2💼 Business Value></h2>
+## 💼 Business Value
 
 This dashboard helps healthcare organizations:
 
@@ -90,20 +90,20 @@ Compare supplier performance.
 Enhance strategic decision-making.
 Monitor supplier distribution effectively.
 
-<h2🚀 Future Enhancements></h2>
+## 🚀 Future Enhancements
 Real-time data integration
 Predictive analytics
 Cloud deployment using Power BI Service
 Mobile-friendly dashboard
 Advanced healthcare reporting
 
-<h2📄 Documentation></h2>
+## 📄 Documentation
 
 The complete project documentation is available in the Documentation folder.
 
-<h2👤 Author></h2>
+## 👤 Author
 
-Tamilmani
+### Tamilmani
 
 💼 Aspiring Data Analyst
 📊 Power BI | Excel | SQL | Python
