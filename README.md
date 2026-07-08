@@ -4,11 +4,11 @@ A comprehensive data analytics project that analyzes medical equipment supplier 
 
 This project transforms raw supplier data into meaningful insights through data preprocessing, visualization, and business intelligence techniques. The dashboard helps users understand supplier distribution, compare business participation, and support data-driven decision-making in the healthcare sector.
 
-<h2📌 Project Overview></h2>
+## 📌 Project Overview
 
 The Medical Equipment Suppliers Dashboard provides an interactive platform to analyze supplier information and identify trends across multiple healthcare dimensions. It offers clear visualizations that help users explore supplier distribution, specialty-wise analysis, state-wise comparisons, and business participation.
 
-<h3The analysis includes:></h3>
+## The analysis includes:
 🌍 Multi-State Supplier Analysis
 🏥 Medical Specialty Distribution
 📊 Interactive Power BI Dashboard
@@ -17,7 +17,7 @@ The Medical Equipment Suppliers Dashboard provides an interactive platform to an
 📈 KPI-Based Performance Monitoring
 
 
-<h2🎯 Project Objectives></h2>
+## 🎯 Project Objectives
 Analyze medical equipment supplier data.
 Visualize supplier distribution across different states.
 Compare supplier availability by medical specialty.
