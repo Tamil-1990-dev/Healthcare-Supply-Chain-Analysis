@@ -15,37 +15,49 @@ The analysis includes:
 📍 State-wise & ZIP Code Analysis
 🏢 Business Participation Analysis
 📈 KPI-Based Performance Monitoring
+
+
 🎯 Project Objectives
 Analyze medical equipment supplier data.
 Visualize supplier distribution across different states.
 Compare supplier availability by medical specialty.
 Identify business participation trends.
-Support informed business and healthcare decisions through interactive dashboards.
+Support informed business and healthcare decisions through interactive dashboards.\
+
 🛠️ Tools & Technologies
 Microsoft Power BI
 Microsoft Excel
 Data Visualization
 Data Analysis
 KPI Dashboard Design
+
+
 📂 Repository Structure
 Medical-Equipment-Suppliers-Dashboard
+
 │
 ├── 📁 Dashboard
 │   ├── Dashboard Screenshot.png
+
 │
 ├── 📁 Dataset
 │   ├── Medical_Equipment_Suppliers.csv
+
 │
 ├── 📁 Documentation
 │   ├── Project Report.pdf
+
 │
 ├── 📁 Power BI File
 │   ├── Medical Equipment Suppliers Dashboard.pbix
+
 │
 ├── 📁 Images
 │   ├── Dashboard Preview.png
+
 │
 └── 📄 README.md
+
 
 📊 Dashboard Features
 📌 KPI Cards for quick performance overview
